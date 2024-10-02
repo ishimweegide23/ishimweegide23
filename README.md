@@ -1,12 +1,11 @@
+```SQL 
 # Football League Management System
 
 This is a simple project about managing a football database.
-
+```
 ### Table
 
-<p style="color:blue;">This is a blue colored text example!</p>
-
-[Uploading PLSQL WORK.s
+<p style="color:blue;">This is a blue colored text example!</p>```
 
 ```
 -- 1. Creating the Teams Table
