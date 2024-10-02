@@ -1,11 +1,19 @@
-```SQL 
+
 # Football League Management System
 
 This is a simple project about managing a football database.
 
 ### Table
 
-<p style="color:blue;">This is a blue colored text example!</p>```
+<p style="color:blue;">This is blue text.</p>
+<p style="color:red;">This is red text.</p>
+<p style="color:black;">This is black text.</p>
+<p>
+  <span style="color:blue;">Blue</span> and <span style="color:red;">Red</span> 
+  and <span style="color:black;">Black</span> mixed in the same sentence.
+</p>```
+
+```sql
 
 -- 1. Creating the Teams Table
 CREATE TABLE Teams (
