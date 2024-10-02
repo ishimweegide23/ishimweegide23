@@ -9,9 +9,7 @@ This is a simple project about managing a football database.
 <p style="color:red;"</p>
 <p style="color:black;"</p>
 <p>
-  <span style="color:blue;">Blue</span> and <span style="color:red;">Red</span> 
-  and <span style="color:black;">Black</span> mixed in the same sentence.
-</p>```
+  <span style="color:blue;"</span> and <span style="color:red;"</span> <span style="color:black;"</span> </p>```
 
 ```sql
 
