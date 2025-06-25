@@ -1,181 +1,55 @@
+<h1 align="center">Hey there! 👋 I'm Ishimwe Egîdë</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+from+Rwanda;Web+%F0%9F%94%A8+Java+%F0%9F%92%BB+Lover;Open+Source+Contributor+%E2%9C%A8;Always+learning+something+new!" alt="Typing SVG" />
+</p>
 
-# Football League Management System
+---
 
-This is a simple project about managing a football database.
+### 🌍 About Me
+- 🇷🇼 Based in Kigali, Rwanda  
+- 👨‍💻 I’m currently working on: **Java desktop apps**, **Health & Fitness tracking**, and **open-source contributions**
+- 🎓 2nd Year Software Engineering student @ **AUCA**
+- 🎯 Passionate about building impactful systems & collaborating with smart developers
+- 🎵 I’m also a singer — [Zeo on IG](https://www.instagram.com/__k.w.i.b.u.k.a_/)
 
-### Table
+---
 
-<p style="color:blue;"</p>
-<p style="color:red;"</p>
-<p style="color:black;"</p>
-<p>
-  <span style="color:blue;"</span><span style="color:red;"</span> <span style="color:black;"</span> </p>```
+### 🔧 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Swing](https://img.shields.io/badge/Java%20Swing-3DDC84?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-```sql
+---
 
--- 1. Creating the Teams Table
-CREATE TABLE Teams (
-    TeamID NUMBER PRIMARY KEY,
-    TeamName VARCHAR2(100) NOT NULL,
-    Stadium VARCHAR2(100),
-    Coach VARCHAR2(100)
-);
+### 🚀 Current Projects
+- 🎮 **Amavubi FanHub** – A fan engagement system (Java + Swing + MySQL)
+- 💪 **Health & Fitness Tracker** – Wellness center system with MIS design
+- 📚 **SupportDesk** – A Java Swing helpdesk ticketing tool
 
+---
 
--- 2. Creating the Players Table
-CREATE TABLE Players (
-    PlayerID NUMBER PRIMARY KEY,
-    PlayerName VARCHAR2(100) NOT NULL,
-    Position VARCHAR2(50),
-    Nationality VARCHAR2(50),
-    DateOfBirth DATE NOT NULL,
-    TeamID NUMBER,
-    FOREIGN KEY (TeamID) REFERENCES Teams(TeamID)
-);
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight" alt="Egide's GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ishimweegide23&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Egide's GitHub streak" />
+</p>
 
+---
 
+### 📬 Connect With Me
+- 📧 Email: **ishimwekwibukae@gmail.com**
+- 💼 LinkedIn: [Ishimwe Egîdë](https://www.linkedin.com/in/ishimwe-egide-56926132a/)
+- 🌐 Portfolio Coming Soon...
 
--- 3. Creating the Matches Table
-CREATE TABLE Matches (
-    MatchID NUMBER PRIMARY KEY,
-    HomeTeamID NUMBER,
-    AwayTeamID NUMBER,
-    MatchDate DATE,
-    HomeTeamGoals NUMBER,
-    AwayTeamGoals NUMBER,
-    FOREIGN KEY (HomeTeamID) REFERENCES Teams(TeamID),
-    FOREIGN KEY (AwayTeamID) REFERENCES Teams(TeamID)
-);
+---
 
+### 🌟 Quote I Live By
+> *“Stay hungry, stay foolish.” – Steve Jobs*
 
-
--- 4. Creating the PlayerStats Table
-CREATE TABLE PlayerStats (
-    StatID NUMBER PRIMARY KEY,
-    PlayerID NUMBER,
-    MatchesPlayed NUMBER,
-    GoalsScored NUMBER,
-    Assists NUMBER,
-    FOREIGN KEY (PlayerID) REFERENCES Players(PlayerID)
-);
-
-
-select*from matches;
-
-INSERT INTO Teams (TeamID, TeamName, Stadium, MANAGERNAME)
-VALUES (1, 'Liverpool', 'Anfield', 'Jurgen Klopp');
-
-INSERT INTO Teams (TeamID, TeamName, Stadium, MANAGERNAME)
-VALUES (2, 'Manchester City', 'Etihad Stadium', 'Pep Guardiola');
-
-INSERT INTO Teams (TeamID, TeamName, Stadium, MANAGERNAME)
-VALUES (3, 'Chelsea', 'Stamford Bridge', 'Enzo Marseca');
-
-INSERT INTO Teams (TeamID, TeamName, Stadium, MANAGERNAME)
-VALUES (4, 'Arsenal', 'Emirates Stadium', 'Mikel Arteta');
-
-INSERT INTO Players (PlayerID, PlayerName, Position, Nationality, DateOfBirth, TeamID)
-VALUES (101, 'Virgil van Dijk', 'Defender', 'Netherlands', TO_DATE('1991-07-08', 'YYYY-MM-DD'), 1);
-
-INSERT INTO Players (PlayerID, PlayerName, Position, Nationality, DateOfBirth, TeamID)
-VALUES (102, 'Mohamed Salah', 'Forward', 'Egypt', TO_DATE('1992-06-15', 'YYYY-MM-DD'), 1);
-
-INSERT INTO Players (PlayerID, PlayerName, Position, Nationality, DateOfBirth, TeamID)
-VALUES (103, 'Kevin De Bruyne', 'Midfielder', 'Belgium', TO_DATE('1991-06-28', 'YYYY-MM-DD'), 2);
-
-INSERT INTO Players (PlayerID, PlayerName, Position, Nationality, DateOfBirth, TeamID)
-VALUES (104, 'Bukayo Saka', 'Midfielder', 'England', TO_DATE('2001-09-05', 'YYYY-MM-DD'), 4);
-
-INSERT INTO Matches (MatchID, HomeTeamID, AwayTeamID, MatchDate, HomeTeamGoals, AwayTeamGoals)
-VALUES (1001, 1, 2, TO_DATE('2024-09-15', 'YYYY-MM-DD'), 3, 2);
-
-INSERT INTO Matches (MatchID, HomeTeamID, AwayTeamID, MatchDate, HomeTeamGoals, AwayTeamGoals)
-VALUES (1002, 3, 4, TO_DATE('2024-09-16', 'YYYY-MM-DD'), 1, 1);
-
-INSERT INTO PlayerStats (StatID, PlayerID, MatchesPlayed, GoalsScored, Assists)
-VALUES (1, 101, 5, 2, 1);
-
-INSERT INTO PlayerStats (StatID, PlayerID, MatchesPlayed, GoalsScored, Assists)
-VALUES (2, 102, 5, 4, 2);
-
-INSERT INTO PlayerStats (StatID, PlayerID, MatchesPlayed, GoalsScored, Assists)
-VALUES (3, 103, 5, 2, 3);
-
-INSERT INTO PlayerStats (StatID, PlayerID, MatchesPlayed, GoalsScored, Assists)
-VALUES (4, 104, 5, 3, 4);
-
--- Add the FoundedYear column to the existing Teams table
-ALTER TABLE Teams
-ADD (FoundedYear NUMBER);
-
-UPDATE Teams
-SET FoundedYear = 1892
-WHERE TeamID = 1;
-
-UPDATE Teams
-SET FoundedYear = 1880
-WHERE TeamID = 2;
-
-UPDATE Teams
-SET FoundedYear = 1905
-WHERE TeamID = 3;
-
-UPDATE Teams
-SET FoundedYear = 1886
-WHERE TeamID = 4;
-
-UPDATE Teams
-SET MANAGERNAME = 'Alen Slot'
-WHERE TeamName = 'Liverpool';
-
-INSERT INTO Standings (TeamID, Points, Wins, Losses, Draws, GoalDifference)
-VALUES (1, 16, 5, 1, 1, 10);
-
-INSERT INTO Standings (TeamID, Points, Wins, Losses, Draws, GoalDifference)
-VALUES (2, 18, 6, 1, 0, 12);
-
-INSERT INTO Standings (TeamID, Points, Wins, Losses, Draws, GoalDifference)
-VALUES (4, 11, 3, 4, 2, 1);
-
-
-INSERT INTO Standings (TeamID, Points, Wins, Losses, Draws, GoalDifference)
-VALUES (3, 18, 5, 0, 3, 11);
-
-select *from  standings;
-
-DELETE FROM PlayerStats WHERE PlayerID = 101;
-
-SELECT Players.PlayerName, Teams.TeamName
-FROM Players
-INNER JOIN Teams ON Players.TeamID = Teams.TeamID;
-
-SELECT Teams.TeamName, Players.PlayerName
-FROM Teams
-LEFT JOIN Players ON Teams.TeamID = Players.TeamID;
-
-commit;
-
-RollBack;
-```
-### CONCEPTUAL DIAGRAM
-
-![work5](https://github.com/user-attachments/assets/daf5e7c0-48ee-4c2f-8821-c92ba5a7e29e)
-
-### MATCHES DIAGRAM
-
-![work1](https://github.com/user-attachments/assets/f8006655-3010-4f8f-a05c-034c4a384900)
-
-### PLAYERS DIAGRAM
-
-![work2](https://github.com/user-attachments/assets/3008e42b-b07e-4a58-bfca-9c7acffca962)
-
-### PLAYERSTATS
-
-![work3](https://github.com/user-attachments/assets/7e390aee-6343-4d03-894c-5ef73d18cdcd)
-
-### STANDINGS
-
-![work4](https://github.com/user-attachments/assets/765c33a1-481e-41b2-9032-16cebb732be8)
-
-
+---
 
