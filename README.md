@@ -1,89 +1,228 @@
-<h1 align="center">👋 Hello World! I'm Ishimwe Egîdë</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;3rd+Year+Software+Engineering+Student+%F0%9F%8F%93;Networking+%26+Database+Lover+%F0%9F%94%8E;Passionate+about+Tech+%E2%9C%A8+Learning+Every+Day" alt="Typing SVG" />
-</p>
+# 👋 Welcome to My Digital Workshop
+
+<div align="center">
+  
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ishimwe%20Egîdë&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20Innovation%20Catalyst&descAlignY=55&descSize=16)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Project+Manager+%26+Tech+Lead+%F0%9F%93%8A;Building+Tomorrow%27s+Solutions+Today+%E2%9C%A8;From+Rwanda+%F0%9F%87%B7%F0%9F%87%BC+to+Global+Impact+%F0%9F%8C" alt="Dynamic Typing" />
+</div>
 
 ---
 
-### 🌟 About Me
-🚀 I’m **Ishimwe Egîdë**, a passionate and innovative **Full Stack Software Developer** from **Rwanda**, with a strong foundation in Java, web technologies, database systems, and networking.
+## 🎯 **Who Am I?**
 
-🎓 I’m currently a **3rd year Software Engineering student** at **AUCA**, driven by curiosity and a love for building scalable solutions that solve real-world problems.
+> **"Transforming ideas into scalable digital solutions while leading teams to excellence."**
 
-💻 From designing UI with care to optimizing backend logic and writing clean code, I love crafting tech that impacts lives. I also enjoy music as inspiration in my development journey 🎧.
+I'm **Ishimwe Egîdë**, a passionate **Software Engineer** and **Project Manager** from Rwanda, currently advancing through my **3rd year in Software Engineering at AUCA**. I bridge the gap between technical excellence and strategic leadership, specializing in full-stack development, database architecture, and team coordination.
 
-🧠 I thrive on collaboration, community building, and continuous learning.
+My journey combines **hands-on coding expertise** with **project management acumen**, enabling me to deliver robust software solutions while orchestrating seamless team collaboration and project execution.
 
----
+<div align="center">
 
-### 💼 What I Do
-- 👨‍💻 Full-Stack Web Development (HTML, CSS, JavaScript, Java, PHP)
-- 📱 Desktop App Development using **Java + Swing**
-- 🧩 Database Design (MySQL, Oracle)
-- 🌐 Networking & Systems Configuration (Nagios, Apache, DNS, IPv6)
-- ⚙️ Object-Oriented Programming (OOP), MVC, SDLC, PL/SQL
-- 🧪 Software Testing and SQA
-- ☁️ Git & GitHub for collaboration and version control
+### 🌟 **Core Identity**
+  
+**🔧 Technical Architect** • **👥 Team Leader** • **📈 Strategic Planner** • **🎯 Problem Solver**
+
+</div>
 
 ---
 
-### 🚀 Projects That Define Me
+## 💼 **Professional Arsenal**
 
-| 💡 Project        | 🧰 Tech Stack                              | 🔗 Description |
-|------------------|--------------------------------------------|----------------|
-| **Amavubi FanHub** | Java, Swing, JDBC, MySQL                  | A fan engagement desktop app for booking matches, tracking stats & more. ✅ Completed |
-| **eDockita**       | HTML, CSS, JS, PHP, MySQL (still building)| A document collaboration platform for digital transformation 🛠️ |
-| **Ubudehe System** | Java, NetBeans, MySQL                     | A classification system for Rwandan citizens based on social categories. |
-| **Health & Fitness Tracker** | PL/SQL, Oracle, BPM, MIS         | A tracking app for wellness center with process modeling and reports. |
-| **SupportDesk App** | Java, Swing                              | A ticketing/helpdesk system with CRUD and dashboard features. |
+<div align="center">
 
----
+### **🛠️ Technical Stack**
 
-### 🔧 Tech Stack
+</div>
 
-**Languages & Tools**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-**Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat-square&logo=diagrams.net&logoColor=white)
+**💻 Development & Languages**
+```
+Java ████████████████████ 95%
+PHP  █████████████████▓░░ 85%  
+JS   ████████████████▓░░░ 80%
+HTML ████████████████████ 100%
+CSS  ██████████████████▓░ 90%
+```
 
----
+</td>
+<td align="center" width="50%">
 
-### 📈 GitHub Stats & Activity
+**🗄️ Databases & Systems**
+```
+MySQL  █████████████████▓░░ 85%
+Oracle ████████████████▓░░░ 80%
+PL/SQL ███████████████▓░░░░ 75%
+NoSQL  ██████████▓░░░░░░░░░ 50%
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=radical" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=radical" width="50%" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-### 📬 Connect With Me
+**🎨 Design & Management Tools**
 
-- 📧 Email: [ishimwekwibukae@gmail.com](mailto:ishimwekwibukae@gmail.com)  
-- 💼 LinkedIn: [Ishimwe Egîdë](https://www.linkedin.com/in/ishimwe-egide-56926132a/)
-- 🧠 GitHub: [@ishimweegide23](https://github.com/ishimweegide23)
-- 🌐 Portfolio Website: **Coming Soon... Stay tuned!** 🌍
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+**🌐 Infrastructure & Networking**
 
-### 🧠 My Philosophy
-> _“Code is not just instructions; it’s creativity, logic, and impact combined.”_  
-> _“Always learning. Always building.”_
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-659C35?style=for-the-badge&logo=nagios&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
+</div>
 
 ---
 
+## 🚀 **Featured Projects Portfolio**
+
+<div align="center">
+  <h3>🏆 <strong>Signature Projects</strong></h3>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏟️ **Amavubi FanHub**
+**Role:** *Lead Developer & Project Manager*
+
+**🔹 Challenge:** Create an engaging fan platform for football enthusiasts  
+**🔹 Solution:** Desktop application with comprehensive booking and analytics  
+**🔹 Impact:** Streamlined fan engagement and match management
+
+**Tech Leadership:** `Java` • `Swing` • `JDBC` • `MySQL`
+
+**Status:** ✅ **Production Ready**
+
+</td>
+<td width="50%">
+
+### 📄 **eDockita Platform**
+**Role:** *Full-Stack Lead & PM*
+
+**🔹 Challenge:** Digital transformation for document collaboration  
+**🔹 Solution:** Web-based collaborative document management system  
+**🔹 Impact:** Enhanced organizational efficiency and workflow
+
+**Tech Leadership:** `PHP` • `JavaScript` • `MySQL` • `HTML5/CSS3`
+
+**Status:** 🛠️ **In Development**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏘️ **Ubudehe Classification System**
+**Role:** *Technical Architect*
+
+**🔹 Challenge:** Systematic citizen classification for social programs  
+**🔹 Solution:** Robust classification system with data integrity  
+**🔹 Impact:** Improved social service delivery efficiency
+
+**Tech Stack:** `Java` • `NetBeans` • `MySQL`
+
+</td>
+<td width="50%">
+
+### 💊 **Health & Fitness Tracker**
+**Role:** *Database Architect & Analyst*
+
+**🔹 Challenge:** Comprehensive wellness tracking and reporting  
+**🔹 Solution:** Enterprise-grade tracking with BPM integration  
+**🔹 Impact:** Data-driven health insights and process optimization
+
+**Tech Stack:** `PL/SQL` • `Oracle` • `BPM` • `MIS`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 **Performance Analytics**
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=8" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8" />
+
+</div>
+
+---
+
+## 🎯 **Leadership Philosophy**
+
+<div align="center">
+
+### **🧠 Strategic Mindset**
+
+</div>
+
+```
+🔸 Technical Excellence + Strategic Vision = Exceptional Results
+🔸 Code Quality + Team Collaboration = Sustainable Success  
+🔸 Innovation + Execution = Market Impact
+🔸 Continuous Learning + Knowledge Sharing = Growth Catalyst
+```
+
+<div align="center">
+
+**💡 Core Values:** *Integrity • Innovation • Impact • Inclusion*
+
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+  
+<a href="mailto:ishimwekwibukae@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+<a href="https://www.linkedin.com/in/ishimwe-egide-56926132a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ishimweegide23">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**🌍 Portfolio Website:** *Coming Soon - Premium Experience Awaits*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔮 **Vision Statement**
+
+> *"Engineering tomorrow's digital landscape through innovative solutions,*  
+> *strategic leadership, and collaborative excellence."*
+
+**🎯 Mission:** Delivering scalable software solutions while empowering teams to achieve extraordinary results.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+
+**⚡ Fun Fact:** I code to music 🎧 and believe that rhythm enhances logical thinking!
+
+</div>
