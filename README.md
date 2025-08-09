@@ -1,228 +1,96 @@
-# 👋 Welcome to My Digital Workshop
+<h1 align="center">👋 Hello World! I'm Ishimwe Egîdë</h1>
 
-<div align="center">
-  
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ishimwe%20Egîdë&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20Innovation%20Catalyst&descAlignY=55&descSize=16)
-
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=800&color=2563EB&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Project+Manager+%26+Tech+Lead+%F0%9F%93%8A;Building+Tomorrow%27s+Solutions+Today+%E2%9C%A8;From+Rwanda+%F0%9F%87%B7%F0%9F%87%BC+to+Global+Impact+%F0%9F%8C" alt="Dynamic Typing" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;3rd+Year+Software+Engineering+Student+%F0%9F%8F%93;Networking+%26+Database+Lover+%F0%9F%94%8E;Passionate+about+Tech+%E2%9C%A8+Learning+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🎯 **Who Am I?**
-
-> **"Transforming ideas into scalable digital solutions while leading teams to excellence."**
-
-I'm **Ishimwe Egîdë**, a passionate **Software Engineer** and **Project Manager** from Rwanda, currently advancing through my **3rd year in Software Engineering at AUCA**. I bridge the gap between technical excellence and strategic leadership, specializing in full-stack development, database architecture, and team coordination.
-
-My journey combines **hands-on coding expertise** with **project management acumen**, enabling me to deliver robust software solutions while orchestrating seamless team collaboration and project execution.
-
-<div align="center">
-
-### 🌟 **Core Identity**
-  
-**🔧 Technical Architect** • **👥 Team Leader** • **📈 Strategic Planner** • **🎯 Problem Solver**
-
-</div>
+### 🌟 About Me
+🚀 I’m **Ishimwe Egîdë**, a passionate and innovative **Full Stack Software Developer, Data Enthusiast & Project Manager** from **Rwanda**.  
+🎓 Currently a **3rd year Software Engineering student at AUCA**, I specialize in building scalable applications using Java, web technologies, databases, and machine learning.  
+💻 I enjoy crafting full-stack solutions, analyzing data to generate insights, and managing projects end-to-end for impactful results.  
+🎯 As a project manager, I coordinate software lifecycles and teams to deliver quality and timely solutions.  
+🎧 Music inspires my creativity as I keep growing and building every day.
 
 ---
 
-## 💼 **Professional Arsenal**
+### 💼 What I Do
 
-<div align="center">
-
-### **🛠️ Technical Stack**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**💻 Development & Languages**
-```
-Java ████████████████████ 95%
-PHP  █████████████████▓░░ 85%  
-JS   ████████████████▓░░░ 80%
-HTML ████████████████████ 100%
-CSS  ██████████████████▓░ 90%
-```
-
-</td>
-<td align="center" width="50%">
-
-**🗄️ Databases & Systems**
-```
-MySQL  █████████████████▓░░ 85%
-Oracle ████████████████▓░░░ 80%
-PL/SQL ███████████████▓░░░░ 75%
-NoSQL  ██████████▓░░░░░░░░░ 50%
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🎨 Design & Management Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**🌐 Infrastructure & Networking**
-
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-659C35?style=for-the-badge&logo=nagios&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-</div>
+| Role                  | Skills & Focus Areas                                       | Tools & Technologies                                  |
+|-----------------------|-----------------------------------------------------------|------------------------------------------------------|
+| **Full Stack Developer** | Frontend (HTML, CSS, JavaScript), Backend (Java, PHP), Database design and queries (MySQL, Oracle) | Java, Swing, JDBC, PHP, MySQL, Oracle, NetBeans, VS Code |
+| **Data Analyst & ML Practitioner** | Data cleaning, visualization, exploratory data analysis, machine learning model development and evaluation | Python, Pandas, Scikit-learn, Matplotlib, Power BI, Jupyter Notebook |
+| **Project Manager**    | Software development lifecycle (SDLC), BPM modeling, team coordination, Agile methodologies | BPMN, Draw.io, Jira (planned), Communication tools    |
+| **Network & Systems Enthusiast** | Network setup, monitoring, DNS, Apache, IPv6 configurations | Nagios, Apache, DNS, IPv6                              |
 
 ---
 
-## 🚀 **Featured Projects Portfolio**
+### 🚀 Projects That Define Me
 
-<div align="center">
-  <h3>🏆 <strong>Signature Projects</strong></h3>
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏟️ **Amavubi FanHub**
-**Role:** *Lead Developer & Project Manager*
-
-**🔹 Challenge:** Create an engaging fan platform for football enthusiasts  
-**🔹 Solution:** Desktop application with comprehensive booking and analytics  
-**🔹 Impact:** Streamlined fan engagement and match management
-
-**Tech Leadership:** `Java` • `Swing` • `JDBC` • `MySQL`
-
-**Status:** ✅ **Production Ready**
-
-</td>
-<td width="50%">
-
-### 📄 **eDockita Platform**
-**Role:** *Full-Stack Lead & PM*
-
-**🔹 Challenge:** Digital transformation for document collaboration  
-**🔹 Solution:** Web-based collaborative document management system  
-**🔹 Impact:** Enhanced organizational efficiency and workflow
-
-**Tech Leadership:** `PHP` • `JavaScript` • `MySQL` • `HTML5/CSS3`
-
-**Status:** 🛠️ **In Development**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏘️ **Ubudehe Classification System**
-**Role:** *Technical Architect*
-
-**🔹 Challenge:** Systematic citizen classification for social programs  
-**🔹 Solution:** Robust classification system with data integrity  
-**🔹 Impact:** Improved social service delivery efficiency
-
-**Tech Stack:** `Java` • `NetBeans` • `MySQL`
-
-</td>
-<td width="50%">
-
-### 💊 **Health & Fitness Tracker**
-**Role:** *Database Architect & Analyst*
-
-**🔹 Challenge:** Comprehensive wellness tracking and reporting  
-**🔹 Solution:** Enterprise-grade tracking with BPM integration  
-**🔹 Impact:** Data-driven health insights and process optimization
-
-**Tech Stack:** `PL/SQL` • `Oracle` • `BPM` • `MIS`
-
-</td>
-</tr>
-</table>
+| Project Name            | Role                     | Tech Stack                                  | Description & Impact                                                      |
+|-------------------------|--------------------------|---------------------------------------------|--------------------------------------------------------------------------|
+| **Amavubi FanHub**       | Full Stack Developer     | Java, Swing, JDBC, MySQL                     | Desktop app enabling fans to book matches, buy merch, and track stats. Completed ✅ |
+| **eDockita**             | Full Stack Developer     | HTML, CSS, JavaScript, PHP, MySQL            | Collaborative document platform improving digital workflows. In development 🛠️ |
+| **Ubudehe Management System** | Developer & Analyst      | Java, NetBeans, MySQL                        | Socioeconomic classification system for Rwandan citizens.               |
+| **Health & Fitness Tracker** | Project Manager & Developer | PL/SQL, Oracle, BPMN, MIS                     | Wellness center app with process modeling, health tracking, and reporting.|
+| **SupportDesk App**      | Full Stack Developer     | Java, Swing                                 | Ticketing/helpdesk system with CRUD and dashboard features.              |
+| **EmergencyFlow**        | Data Analyst & ML Modeler | Python, Scikit-learn, Pandas, Matplotlib    | Optimizing emergency response times using machine learning models.       |
+| **Rwanda Public Transport Data Analysis** | Data Analyst           | Python, Pandas, Matplotlib, Power BI         | Data cleaning, visualization, and clustering to improve transport insights.|
 
 ---
 
-## 📊 **Performance Analytics**
+### 🔧 Tech Stack & Tools
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=8" />
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&langs_count=8" />
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
 
-</div>
+**IDEs & Tools**  
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)  
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat-square&logo=diagrams.net&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)  
 
----
-
-## 🎯 **Leadership Philosophy**
-
-<div align="center">
-
-### **🧠 Strategic Mindset**
-
-</div>
-
-```
-🔸 Technical Excellence + Strategic Vision = Exceptional Results
-🔸 Code Quality + Team Collaboration = Sustainable Success  
-🔸 Innovation + Execution = Market Impact
-🔸 Continuous Learning + Knowledge Sharing = Growth Catalyst
-```
-
-<div align="center">
-
-**💡 Core Values:** *Integrity • Innovation • Impact • Inclusion*
-
-</div>
+**Networking & SysAdmin**  
+Nagios, Apache, DNS, IPv6 configuration
 
 ---
 
-## 🌐 **Connect & Collaborate**
+### 📊 GitHub Stats & Activity
 
-<div align="center">
-  
-<a href="mailto:ishimwekwibukae@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
-</a>
-<a href="https://www.linkedin.com/in/ishimwe-egide-56926132a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/ishimweegide23">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-**🌍 Portfolio Website:** *Coming Soon - Premium Experience Awaits*
-
-</div>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=radical" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=radical" width="48%" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=radical" width="50%" />  
+</p>
 
 ---
 
-<div align="center">
+### 📬 Connect With Me
 
-### 🔮 **Vision Statement**
-
-> *"Engineering tomorrow's digital landscape through innovative solutions,*  
-> *strategic leadership, and collaborative excellence."*
-
-**🎯 Mission:** Delivering scalable software solutions while empowering teams to achieve extraordinary results.
+- 📧 Email: [ishimwekwibukae@gmail.com](mailto:ishimwekwibukae@gmail.com)  
+- 💼 LinkedIn: [Ishimwe Egîdë](https://www.linkedin.com/in/ishimwe-egide-56926132a/)  
+- 🧠 GitHub: [@ishimweegide23](https://github.com/ishimweegide23)  
+- 🌐 Portfolio Website: **Coming Soon... Stay tuned!** 🌍
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+### 🧠 My Philosophy  
+> _“Code is not just instructions; it’s creativity, logic, and impact combined.”_  
+> _“Always learning. Always building.”_
 
-**⚡ Fun Fact:** I code to music 🎧 and believe that rhythm enhances logical thinking!
-
-</div>
+---
