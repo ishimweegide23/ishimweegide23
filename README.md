@@ -1,58 +1,64 @@
-<h1 align="center">👋 Hello World! I'm Ishimwe Egîdë</h1>
+<h1 align="center">👋 Hi, I'm Ishimwe Egîdë</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;3rd+Year+Software+Engineering+Student+%F0%9F%8F%93;Networking+%26+Database+Lover+%F0%9F%94%8E;Passionate+about+Tech+%E2%9C%A8+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Full+Stack+Developer+%F0%9F%92%BB;3rd+Year+Software+Engineering+Student+%F0%9F%8F%93;Networking+%26+Database+Enthusiast+%F0%9F%94%8E;Passionate+Tech+Learner+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌟 About Me
-🚀 I’m **Ishimwe Egîdë**, a passionate and innovative **Full Stack Software Developer, Data Enthusiast & Project Manager** from **Rwanda**.  
-🎓 Currently a **3rd year Software Engineering student at AUCA**, I specialize in building scalable applications using Java, web technologies, databases, and machine learning.  
-💻 I enjoy crafting full-stack solutions, analyzing data to generate insights, and managing projects end-to-end for impactful results.  
-🎯 As a project manager, I coordinate software lifecycles and teams to deliver quality and timely solutions.  
-🎧 Music inspires my creativity as I keep growing and building every day.
+### 👨‍💻 About Me  
+I'm a passionate **Full Stack Developer, Software Engineer, and Project Manager** from **Rwanda** with a strong foundation in software development, data analytics, and networking. Currently pursuing my **3rd year at AUCA**, I enjoy crafting scalable web and desktop applications, exploring machine learning, and leading projects from idea to deployment.
+
+I thrive on solving complex problems with clean code and intuitive UI, while collaborating effectively with teams and continuously upgrading my skills.
 
 ---
 
-### 💼 What I Do
+### 🛠️ What I Do  
 
-| Role                  | Skills & Focus Areas                                       | Tools & Technologies                                  |
-|-----------------------|-----------------------------------------------------------|------------------------------------------------------|
-| **Full Stack Developer** | Frontend (HTML, CSS, JavaScript), Backend (Java, PHP), Database design and queries (MySQL, Oracle) | Java, Swing, JDBC, PHP, MySQL, Oracle, NetBeans, VS Code |
-| **Data Analyst & ML Practitioner** | Data cleaning, visualization, exploratory data analysis, machine learning model development and evaluation | Python, Pandas, Scikit-learn, Matplotlib, Power BI, Jupyter Notebook |
-| **Project Manager**    | Software development lifecycle (SDLC), BPM modeling, team coordination, Agile methodologies | BPMN, Draw.io, Jira (planned), Communication tools    |
-| **Network & Systems Enthusiast** | Network setup, monitoring, DNS, Apache, IPv6 configurations | Nagios, Apache, DNS, IPv6                              |
-
----
-
-### 🚀 Projects That Define Me
-
-| Project Name            | Role                     | Tech Stack                                  | Description & Impact                                                      |
-|-------------------------|--------------------------|---------------------------------------------|--------------------------------------------------------------------------|
-| **Amavubi FanHub**       | Full Stack Developer     | Java, Swing, JDBC, MySQL                     | Desktop app enabling fans to book matches, buy merch, and track stats. Completed ✅ |
-| **eDockita**             | Full Stack Developer     | HTML, CSS, JavaScript, PHP, MySQL            | Collaborative document platform improving digital workflows. In development 🛠️ |
-| **Ubudehe Management System** | Developer & Analyst      | Java, NetBeans, MySQL                        | Socioeconomic classification system for Rwandan citizens.               |
-| **Health & Fitness Tracker** | Project Manager & Developer | PL/SQL, Oracle, BPMN, MIS                     | Wellness center app with process modeling, health tracking, and reporting.|
-| **SupportDesk App**      | Full Stack Developer     | Java, Swing                                 | Ticketing/helpdesk system with CRUD and dashboard features.              |
-| **EmergencyFlow**        | Data Analyst & ML Modeler | Python, Scikit-learn, Pandas, Matplotlib    | Optimizing emergency response times using machine learning models.       |
-| **Rwanda Public Transport Data Analysis** | Data Analyst           | Python, Pandas, Matplotlib, Power BI         | Data cleaning, visualization, and clustering to improve transport insights.|
+| Role                    | Skills & Focus Areas                                         | Tools & Technologies                                  |
+|-------------------------|-------------------------------------------------------------|------------------------------------------------------|
+| **Full Stack Developer** | React, Node.js, Express, Java, PHP, MySQL, Oracle, REST APIs | React, Node.js, Express, Java, PHP, MySQL, Oracle, MongoDB |
+| **Desktop Application Developer** | Java Swing, JDBC                                      | Java, Swing, JDBC                                     |
+| **Data Analyst & ML Practitioner** | Data cleaning, visualization, machine learning         | Python, Pandas, Scikit-learn, Matplotlib, Power BI   |
+| **Project Manager**      | Agile, SDLC, BPMN, team coordination                         | BPMN, Draw.io, Jira (planned)                         |
+| **Network & Systems Enthusiast** | DNS, Apache, Nagios, IPv6 configuration                | Nagios, Apache, DNS, IPv6                             |
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🚀 Selected Projects
+
+| Project Name                 | Role                  | Tech Stack                                  | Description & Impact                                                  |
+|------------------------------|-----------------------|---------------------------------------------|----------------------------------------------------------------------|
+| **Amavubi FanHub**            | Full Stack Developer  | Java, Swing, JDBC, MySQL                     | Desktop app for football fans: booking, merchandise, stats tracking. Completed ✅ |
+| **eDockita**                  | Full Stack Developer  | React, Node.js, Express, MySQL               | Document collaboration platform enabling digital transformation. Work in progress 🛠️ |
+| **Ubudehe Management System** | Developer & Analyst   | Java, NetBeans, MySQL                        | Socioeconomic classification system supporting government programs.  |
+| **Health & Fitness Tracker**  | Project Manager & Dev | PL/SQL, Oracle, BPMN                         | Wellness center app for tracking health and process management.      |
+| **SupportDesk App**           | Full Stack Developer  | Java, Swing                                 | Helpdesk ticketing system with full CRUD and dashboard capabilities. |
+| **EmergencyFlow**             | Data Analyst & ML     | Python, Scikit-learn, Pandas, Matplotlib    | ML models to optimize emergency response times in Rwanda.            |
+| **Rwanda Transport Data Analysis** | Data Analyst      | Python, Pandas, Matplotlib, Power BI         | Data-driven insights on public transport using visualization and clustering. |
+| **React Portfolio Website**   | Frontend Developer    | React, CSS                                  | Personal portfolio site showcasing projects and skills responsively. |
+| **Node.js REST API**          | Backend Developer     | Node.js, Express, MongoDB                    | RESTful API with authentication and CRUD operations for web apps.    |
+| **Football Game MVP**         | Frontend Developer    | React, TypeScript, HTML5 Canvas API          | 2D soccer game simulation with real-time controls, physics, scoring, and timer. |
+| **Hospital Website Examples** | Full Stack Developer  | Node.js, Express, React, MongoDB/PostgreSQL | Overview and implementation of healthcare platforms with patient management, scheduling, and role-based access. |
+
+---
+
+### 🔧 Tech Stack
 
 **Languages & Frameworks**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
 **IDEs & Tools**  
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)  
@@ -63,8 +69,8 @@
 ![Draw.io](https://img.shields.io/badge/Draw.io-FF9900?style=flat-square&logo=diagrams.net&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)  
 
-**Networking & SysAdmin**  
-Nagios, Apache, DNS, IPv6 configuration
+**Networking & Systems**  
+Nagios, Apache, DNS, IPv6
 
 ---
 
@@ -80,17 +86,17 @@ Nagios, Apache, DNS, IPv6 configuration
 
 ---
 
-### 📬 Connect With Me
+### 📫 Let's Connect
 
 - 📧 Email: [ishimwekwibukae@gmail.com](mailto:ishimwekwibukae@gmail.com)  
 - 💼 LinkedIn: [Ishimwe Egîdë](https://www.linkedin.com/in/ishimwe-egide-56926132a/)  
 - 🧠 GitHub: [@ishimweegide23](https://github.com/ishimweegide23)  
-- 🌐 Portfolio Website: **Coming Soon... Stay tuned!** 🌍
+- 🌐 Portfolio: *Coming Soon...*
 
 ---
 
-### 🧠 My Philosophy  
-> _“Code is not just instructions; it’s creativity, logic, and impact combined.”_  
-> _“Always learning. Always building.”_
+### 💡 My Philosophy  
+> “Code is not just instructions; it’s creativity, logic, and impact combined.”  
+> “Always learning. Always building.”
 
 ---
