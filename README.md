@@ -1,4 +1,4 @@
-# 🌟 Ishimwe Egîdë - Digital Innovator & Solution Architecttttt
+# 🌟 Ishimwe Egîdë - Digital Innovator & Solution Architectttt
 
 <div align="center">
   
