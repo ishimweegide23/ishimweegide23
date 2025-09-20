@@ -341,6 +341,9 @@ My expertise spans **full-stack development**, **mobile application development*
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=12&hide=html,css)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-500-brightgreen)
+![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-blue)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-orange)
 
 ### **📈 Development Activity**
 **🔥 600+ Total Contributions** • **⚡ Active Daily Contributor** • **🚀 Consistent Growth Trajectory**
