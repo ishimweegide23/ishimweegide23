@@ -333,20 +333,41 @@ My expertise spans **full-stack development**, **mobile application development*
 ---
 
 ## 📊 **Professional Analytics & Metrics**
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" />
+### **GitHub Development Metrics**
+![kwibuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10&include_all_commits=true&count_private=true)
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=12&hide=html,css" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=12&hide=html,css)
 
-<div align="center">
+### **📈 Development Activity**
+**🔥 600+ Total Contributions** • **⚡ Active Daily Contributor** • **🚀 Consistent Growth Trajectory**
 
-### **📈 Development Metrics**
-**🔥 400+ Commits** • **⚡ Active Contributor** • **🚀 Consistent Growth**
+### **🏆 GitHub Achievements**
+- **Total Stars Earned:** 12+
+- **Total Commits (2024):** 450+
+- **Total PRs:** 8+
+- **Total Issues:** 5+
+- **Contributed to:** 6+ repositories
+
+---
+
+### **🎯 Contribution Analytics**
+**Total Contributions: 600+**  
+*Consistent activity since October 2022*
+
+### **4**  
+**Longest Streak**  
+*June 25 - June 28*
+
+### **Most Used Languages**
+![Java](https://img.shields.io/badge/Java-38%25-red?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-25%25-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/Python-20%25-blue?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-12%25-3178C6?style=flat-square)
+![Other](https://img.shields.io/badge/Other-5%25-lightgrey?style=flat-square)
 
 </div>
 
