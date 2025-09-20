@@ -336,17 +336,58 @@ My expertise spans **full-stack development**, **mobile application development*
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" />
+### **🔥 Development Performance Dashboard**
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=12&hide=html,css" />
+<table>
+<tr>
+<td width="50%">
+
+**🚀 GitHub Statistics**
+<img src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" width="100%" />
+
+</td>
+<td width="50%">
+
+**⚡ Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### **💻 Language Proficiency & Project Distribution**
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=15" />
 
 </div>
 
 <div align="center">
 
-### **📈 Development Metrics**
-**🔥 400+ Commits** • **⚡ Active Contributor** • **🚀 Consistent Growth**
+### **📈 2024 Development Metrics & Achievements**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Total_Commits-600+-00D4AA?style=for-the-badge&logo=git&logoColor=white" />
+<br><sub><b>Total Contributions</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/This_Year-500+-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white" />
+<br><sub><b>2024 Commits</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Active_Projects-15+-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" />
+<br><sub><b>Live Projects</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Languages-12+-F7DF1E?style=for-the-badge&logo=code&logoColor=black" />
+<br><sub><b>Tech Stack</b></sub>
+</td>
+</tr>
+</table>
+
+### **🏆 Professional Highlights**
+**🔥 500+ Commits in 2024** • **⚡ Consistent Daily Contributor** • **🚀 Multi-Language Expert** • **💼 Enterprise-Ready Solutions**
 
 </div>
 
