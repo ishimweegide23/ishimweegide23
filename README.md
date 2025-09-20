@@ -344,7 +344,7 @@ My expertise spans **full-stack development**, **mobile application development*
 ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-500-brightgreen)
 ![Current Streak](https://img.shields.io/badge/Current%20Streak-2%20days-blue)
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-4%20days-orange)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ishimweegide23)](https://git.io/streak-stats)
 ### **📈 Development Activity**
 **🔥 600+ Total Contributions** • **⚡ Active Daily Contributor** • **🚀 Consistent Growth Trajectory**
 
