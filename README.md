@@ -1,177 +1,259 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3B82F6&height=200&section=header&text=Ishimwe%20Egîdë&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20Solution%20Architect%20·%20Project%20Lead&descAlignY=58&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+web+%26+mobile+systems;Turning+data+into+decisions;Leading+teams+from+idea+to+launch" alt="typing animation"/>
-
-<br>
-
-<a href="mailto:ishimwekwibukae@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishimwe-egide-56926132a/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://ishimweegide-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=firefox&logoColor=white"/></a>
-<a href="https://wa.me/250780035482"><img src="https://img.shields.io/badge/WhatsApp-3B82F6?style=flat-square&logo=whatsapp&logoColor=white"/></a>
-
-</div>
-
-<br>
-
-## About
-
-I'm a Software Engineering student in Rwanda (3rd year, AUCA), building full-stack, mobile, and data-driven systems — and leading the teams that ship them. My work sits at the intersection of **enterprise backend engineering**, **modern frontend/mobile experiences**, and **applied ML/analytics**, with a growing focus on system architecture and technical project leadership.
-
-```txt
-const engineer = {
-  location: "Kigali, Rwanda 🇷🇼",
-  education: "3rd Year, Software Engineering — AUCA",
-  focus: ["Full-Stack Development", "Enterprise Systems", "ML & Analytics", "Project Leadership"],
-  currentlyBuilding: "eDockita — real-time document collaboration platform",
-};
-```
-
-<br>
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages & Frameworks**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23_/_.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-
-**Data & Databases**
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & Platforms**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Draw.io-F08705?style=flat-square&logo=diagrams.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-
-**Mobile**
-<br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## Featured Work
+## 💼 **Professional Expertise Matrix**
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏟️ Amavubi FanHub
-Desktop fan-engagement platform with booking, merchandise, and match analytics — built and shipped to production.
-<br><br>
-`Java` `Swing` `JDBC` `MySQL`
-<br>
-**Status:** ✅ Live
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 eDockita
-Real-time collaborative document platform, currently in active development as a full-stack + technical lead.
-<br><br>
-`React` `Node.js` `Express` `MySQL`
-<br>
-**Status:** 🛠️ In Progress
-
-</td>
+<th width="20%">🎨 Frontend & Mobile</th>
+<th width="20%">⚡ Backend & Enterprise</th>
+<th width="20%">🧬 Data & AI</th>
+<th width="20%">🏗️ Architecture</th>
+<th width="20%">📋 Management</th>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🏘️ Kigali Rent House
-Responsive rental marketplace for Kigali with advanced search and booking, designed end-to-end.
-<br><br>
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚨 EmergencyFlow AI
-Predictive ML models for optimizing emergency response resource allocation in Rwanda.
-<br><br>
-`Python` `Scikit-learn` `Pandas` `Matplotlib`
+- React.js & TypeScript
+- Mobile App Development
+- Responsive UI/UX Design
+- HTML5 Canvas & Animation
+- Progressive Web Apps
+- Cross-Platform Solutions
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td>
 
-### 🤝 RwandaSkillShare
-Skill-sharing platform connecting providers and learners nationwide with a custom matching algorithm.
-<br><br>
-`React` `Spring Boot` `PostgreSQL`
+- Spring Boot & Java
+- Node.js & Express.js
+- C# & .NET Framework
+- RESTful API Development
+- Microservices Architecture
+- Database Design & Optimization
 
 </td>
-<td width="50%" valign="top">
+<td>
 
-### 🚌 Rwanda Transport Analytics
-Data analysis and clustering to inform public transportation policy recommendations.
-<br><br>
-`Python` `Pandas` `Power BI`
+- Machine Learning Models
+- Data Preprocessing & Analysis
+- Python Scientific Computing
+- Predictive Analytics
+- Business Intelligence
+- Statistical Modeling
+
+</td>
+<td>
+
+- System Design & Architecture
+- UI/UX Design & Prototyping
+- Database Modeling
+- Business Process Modeling
+- Technical Documentation
+- Design Patterns
+
+</td>
+<td>
+
+- Agile Project Management
+- SDLC & BPMN Modeling
+- Team Leadership
+- Strategic Planning
+- Quality Assurance
+- Client Relations
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## GitHub Activity
+## 🚀 **Signature Projects**
+
+### **🌟 Enterprise & Web Solutions**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏟️ **Amavubi FanHub** - *Production Ready*
+**Role:** Lead Developer & Project Manager  
+**Tech:** `Java` • `Swing` • `JDBC` • `MySQL`  
+**Status:** ✅ **Live in Production**
+
+---
+
+#### 📄 **eDockita Platform** - *In Development*
+**Role:** Full-Stack Engineer & Technical Lead  
+**Tech:** `React` • `Node.js` • `Express` • `MySQL`  
+**Status:** 🛠️ **Active Development**
+
+---
+
+#### ⚽ **Premier League DBMS**
+**Role:** Database Architect & Full-Stack Developer  
+**Tech:** `Spring Boot` • `Java` • `MySQL` • `React`
+
+</td>
+<td width="50%">
+
+#### 🏘️ **Kigali Rent House Platform**
+**Role:** Full-Stack Engineer & UI/UX Designer  
+**Tech:** `React` • `Node.js` • `Express` • `MongoDB`
+
+---
+
+#### 🤝 **RwandaSkillShare Platform**
+**Role:** Project Manager & Lead Developer  
+**Tech:** `React` • `Node.js` • `Spring Boot` • `PostgreSQL`
+
+---
+
+#### 🏘️ **Ubudehe Management System**
+**Role:** Software Engineer & Data Analyst  
+**Tech:** `Java` • `NetBeans` • `MySQL`
+
+</td>
+</tr>
+</table>
+
+### **🤖 AI & Data Science Projects**
+
+| Project | Role | Tech Stack |
+|---------|------|------------|
+| 🚨 **EmergencyFlow AI** | Data Scientist & ML Engineer | `Python` • `Scikit-learn` • `Pandas` |
+| 🚌 **Rwanda Transport Analytics** | Data Analyst & Visualization Specialist | `Python` • `Pandas` • `Power BI` |
+
+### **📱 Mobile & Modern Applications**
+
+| Project | Role | Tech Stack |
+|---------|------|------------|
+| ⚽ **Football Game Simulator** | Frontend Developer & Game Designer | `React` • `TypeScript` • `HTML5 Canvas` |
+| 🏥 **Healthcare Platform Suite** | Full-Stack Developer & System Architect | `Node.js` • `React` • `MongoDB` • `PostgreSQL` |
+
+---
+
+## 🔧 **Technology Mastery**
+
+### **💻 Programming Languages & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### **🗄️ Databases & Analytics**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### **🛠️ Development Tools & Platforms**
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&icon_color=3B82F6&text_color=333333&border_radius=8"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=default&hide_border=true&background=ffffff&stroke=E5E7EB&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&border_radius=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ishimweegide23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishimweegide23&theme=tokyonight&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=10" />
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&text_color=333333&border_radius=8&hide=html,css"/>
+<br>
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishimweegide23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=12&hide=html,css" />
 
 </div>
 
-<br>
+<div align="center">
 
-## Let's Connect
+### **📈 Development Metrics**
+**🔥 400+ Commits** • **⚡ Active Contributor** • **🚀 Consistent Growth**
 
-Open to full-time roles, technical collaborations, mobile/enterprise projects, and mentorship conversations.
+</div>
+
+---
+
+## 🎯 **Professional Philosophy**
+
+> *"Technology is most powerful when it serves humanity with purpose and precision."*
+
+> *"Transforming complex challenges into elegant, scalable solutions that drive meaningful impact."*
+
+**My Approach:**
+- 🎯 **Strategic Thinking:** Every line of code serves a greater purpose
+- 🚀 **Innovation Focus:** Pushing boundaries while maintaining reliability  
+- 🤝 **Collaborative Leadership:** Building teams that exceed expectations
+- 📈 **Continuous Growth:** Learning, adapting, and evolving with technology
+- 📱 **User-Centric Design:** Creating intuitive experiences across all platforms
+
+---
+
+## 🤝 **Professional Services & Collaboration**
+
+| Service Area | Offerings |
+|--------------|-----------|
+| 🚀 **Project Management** | Agile Leadership, Team Coordination, Strategic Planning, Quality Assurance |
+| 💻 **Technical Development** | Full-Stack Solutions, Enterprise Systems, API Development, Database Design |
+| 🎨 **Design & Consulting** | System Architecture, UI/UX Design, Technical Consulting, Code Review |
+
+---
+
+## 🌐 **Professional Network**
 
 <div align="center">
 
-<a href="mailto:ishimwekwibukae@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ishimwe-egide-56926132a/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ishimweegide-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+### **Let's Build Something Amazing Together**
 
-<br><br>
+**📱 WhatsApp:** +250 780 035 482  
+**🌍 Portfolio:** [ishimweegide-portfolio.netlify.app](https://ishimweegide-portfolio.netlify.app/)  
+**📧 Email:** [ishimwekwibukae@gmail.com](mailto:ishimwekwibukae@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:3B82F6&height=100&section=footer" width="100%"/>
+### **Open for:**
+**💼 Full-Time Opportunities** • **🤝 Technical Collaborations** • **📱 Mobile App Projects** • **🏢 Enterprise Consulting** • **📚 Mentorship Programs** • **🚀 Startup Partnerships**
+
+</div>
+
+---
+
+<div align="center">
+
+### **🌟 Personal Signature**
+
+> *"Code is poetry in motion - where logic meets creativity,*  
+> *innovation transforms possibility into reality,*  
+> *and every project becomes a masterpiece of digital craftsmanship."*
+
+**⚡ Fun Fact:** I code to music 🎧 because great software, like great music, requires rhythm, harmony, and perfect timing!
+
+---
+
+**🚀 Always learning • Always building • Always innovating • Always delivering excellence**
+
+<!-- 
+  This README was crafted with 💙 by Ishimwe Egîdë
+  Last updated: 2026
+-->
 
 </div>
